@@ -34,7 +34,7 @@ def batch_rename_files(folder_path, new_name_pattern, start_number, file_extensi
         else:
             ext = file_extension if file_extension.startswith(".") else "." + file_extension
 
-        new_filename = f"{filename}_{start_number}{ext}"
+        new_filename = f"{new_name_pattern}_{count}{ext}"
 
         old_path = os.path.join(folder_path, filename)
         new_path = os.path.join(folder_path, new_filename)
