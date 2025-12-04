@@ -3,7 +3,7 @@ import os
 def batch_rename_files(folder_path, new_name_pattern, start_number, file_extension):
     """
         batch_rename_files
-        参数:
+        param:
             folder_path: folder_path
             new_name_pattern: 10101.jpg -> new_name_pattern_x.jpg
             start_number: start index
