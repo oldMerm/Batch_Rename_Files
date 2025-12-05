@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87c3c006-a59d-4d2c-a718-0d43963291cb" name="Changes" comment="2025-12-3 Finished basic func.2">
+    <list default="true" id="87c3c006-a59d-4d2c-a718-0d43963291cb" name="Changes" comment="2025-12-4 Finished basic func.3&#10;I want to add more tools and create a visualization tool.">
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/batch_rename_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/batch_rename_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desktop.py" beforeDir="false" afterPath="$PROJECT_DIR$/desktop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +49,13 @@
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.batch_rename_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desktop.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/Batch_Rename_File&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -61,6 +65,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Batch_Rename_File" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.desktop">
     <configuration name="batch_rename_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Batch_Rename_File" />
@@ -137,6 +146,8 @@
       <workItem from="1764751232034" duration="115000" />
       <workItem from="1764770507627" duration="388000" />
       <workItem from="1764771798434" duration="87000" />
+      <workItem from="1764860171541" duration="311000" />
+      <workItem from="1764945230660" duration="2293000" />
     </task>
     <task id="LOCAL-00001" summary="2025-12-3 Finished basic func">
       <option name="closed" value="true" />
@@ -154,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764751031256</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2025-12-4 Finished basic func.3&#10;I want to add more tools and create a visualization tool.">
+      <option name="closed" value="true" />
+      <created>1764860472463</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764860472463</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,9 +193,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2025-12-3 Finished basic func" />
     <MESSAGE value="2025-12-3 Finished basic func.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2025-12-3 Finished basic func.2" />
+    <MESSAGE value="2025-12-4 Finished basic func.3&#10;I want to add more tools and create a visualization tool." />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-12-4 Finished basic func.3&#10;I want to add more tools and create a visualization tool." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Batch_Rename_File$batch_rename_file.coverage" NAME="batch_rename_file Coverage Results" MODIFIED="1764750897431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Batch_Rename_File$desktop.coverage" NAME="desktop Coverage Results" MODIFIED="1764947419208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

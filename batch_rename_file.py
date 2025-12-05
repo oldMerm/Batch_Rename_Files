@@ -1,5 +1,7 @@
 import os
 
+product_name = "batch_rename_file"
+
 def batch_rename_files(folder_path, new_name_pattern, start_number, file_extension):
     """
         batch_rename_files
