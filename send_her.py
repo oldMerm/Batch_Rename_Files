@@ -13,7 +13,7 @@ btn_bar = tk.Frame(root)
 btn_bar.pack()
 
 def ok():
-    res = tk.messagebox.showinfo("good", "希望有个愉快的旅程")
+    tk.messagebox.showinfo("good", "希望有个愉快的旅程")
     root.quit()
 
 def refuse():

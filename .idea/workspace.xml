@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87c3c006-a59d-4d2c-a718-0d43963291cb" name="Changes" comment="2025-12-5 Finished basic func.5">
-      <change afterPath="$PROJECT_DIR$/javabean_json_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_her.py" afterDir="false" />
+    <list default="true" id="87c3c006-a59d-4d2c-a718-0d43963291cb" name="Changes" comment="2025-12-7 Finished basic func.7&#10;a new component javabean_json_converter because when I use apifox to generate the data modals are so busy!!!">
+      <change afterPath="$PROJECT_DIR$/count_java_code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desktop.py" beforeDir="false" afterPath="$PROJECT_DIR$/desktop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/send_her.py" beforeDir="false" afterPath="$PROJECT_DIR$/send_her.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,35 +45,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.batch_rename_file.executor": "Run",
-    "Python.desktop.executor": "Run",
-    "Python.javabean_json_converter.executor": "Run",
-    "Python.json_convertor.executor": "Run",
-    "Python.send_her.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/PycharmProjects/Batch_Rename_File",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.batch_rename_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.count_java_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desktop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.javabean_json_converter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.json_convertor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.send_her.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/Batch_Rename_File&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\Batch_Rename_File" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.send_her">
+  <component name="RunManager" selected="Python.count_java_code">
     <configuration name="batch_rename_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Batch_Rename_File" />
       <option name="ENV_FILES" value="" />
@@ -90,6 +90,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/batch_rename_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="count_java_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Batch_Rename_File" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_java_code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,29 +167,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json_convertor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Batch_Rename_File" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_convertor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="send_her" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Batch_Rename_File" />
       <option name="ENV_FILES" value="" />
@@ -192,6 +192,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_java_code" />
         <item itemvalue="Python.send_her" />
         <item itemvalue="Python.desktop" />
         <item itemvalue="Python.javabean_json_converter" />
@@ -228,7 +229,11 @@
       <workItem from="1765000337579" duration="41000" />
       <workItem from="1765012319718" duration="560000" />
       <workItem from="1765031357989" duration="4572000" />
-      <workItem from="1765090200347" duration="7303000" />
+      <workItem from="1765090200347" duration="7404000" />
+      <workItem from="1765099581163" duration="1188000" />
+      <workItem from="1765158054718" duration="68000" />
+      <workItem from="1765190854629" duration="5029000" />
+      <workItem from="1765334784171" duration="2952000" />
     </task>
     <task id="LOCAL-00001" summary="2025-12-3 Finished basic func">
       <option name="closed" value="true" />
@@ -262,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764947590231</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2025-12-7 Finished basic func.7&#10;a new component javabean_json_converter because when I use apifox to generate the data modals are so busy!!!">
+      <option name="closed" value="true" />
+      <created>1765098274071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765098274072</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,9 +297,11 @@
     <MESSAGE value="2025-12-3 Finished basic func.2" />
     <MESSAGE value="2025-12-4 Finished basic func.3&#10;I want to add more tools and create a visualization tool." />
     <MESSAGE value="2025-12-5 Finished basic func.4&#10;create the combobox in utils.In the future, I want to create the more and more utils in the project.Use tkinter visualization." />
-    <option name="LAST_COMMIT_MESSAGE" value="2025-12-5 Finished basic func.4&#10;create the combobox in utils.In the future, I want to create the more and more utils in the project.Use tkinter visualization." />
+    <MESSAGE value="2025-12-7 Finished basic func.7&#10;a new component javabean_json_converter because when I use apifox to generate the data modals are so busy!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-12-7 Finished basic func.7&#10;a new component javabean_json_converter because when I use apifox to generate the data modals are so busy!!!" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Batch_Rename_File$count_java_code.coverage" NAME="count_java_code Coverage Results" MODIFIED="1765338105141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Batch_Rename_File$javabean_json_converter.coverage" NAME="javabean_json_converter Coverage Results" MODIFIED="1765032497770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Batch_Rename_File$json_convertor.coverage" NAME="json_convertor Coverage Results" MODIFIED="1765000154425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Batch_Rename_File$batch_rename_file.coverage" NAME="batch_rename_file Coverage Results" MODIFIED="1764750897431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
